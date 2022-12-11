@@ -1,5 +1,5 @@
 {
   "title": "usT ",
   "subtitle": "This is about me and you",
-  "content": "![](/images/uploads/img_20221128_152946_984.jpg)"
+  "content": "AUEGGA \n\nUHWJWO URUWH﻿ h \n\n![](/images/uploads/img_20221128_152946_984.jpg)\n\nThere are many different ways to add Netlify CMS to your project. The easiest is probably just to embed it from a CDN, and that's exactly what we're gonna do. To avoid making this guide too complicated, we're just going to add Netlify into a subfolder inside the `/public` directory (which is just served as static files by Next):\n\nThere are many different ways to add Netlify CMS to your project. The easiest is probably just to embed it from a CDN, and that's exactly what we're gonna do. To avoid making this guide too complicated, we're just going to add Netlify into a subfolder inside the /public directory (which is just served as static files by Next):"
 }
